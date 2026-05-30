@@ -55,7 +55,7 @@ modules:
         only-arches:
           - x86_64
         url: https://github.com/kukaraf/ytmdesktop/releases/download/v2.0.12/youtube-music-desktop-app_2.0.12_amd64.deb
-        sha512: 7c9573db1822aea8f74bf326ceb923500edd2cd6e39d40eebf3625f6ebb69360247f63c9fd8c90cd1bc604097a6c009c8e29d287011128c64f2bd5298bf1b44b
+        sha512: c9b4a1d9737cd73c410e865613a6fef855d93599b86247b96f203724acd9f03cd0d775ad87e04abab8dba0f6fbc9c29e596a090b64130c74b4579de56602b788
         x-checker-data:
           type: json
           url: https://api.github.com/repos/kukaraf/ytmdesktop/releases/latest
@@ -65,7 +65,7 @@ modules:
         only-arches:
           - aarch64
         url: https://github.com/kukaraf/ytmdesktop/releases/download/v2.0.12/youtube-music-desktop-app_2.0.12_arm64.deb
-        sha512: 59c462e5d79ea2f5e3205d01ce16a6b107b8c5d525de13bffbb7b588188ee79a3f010d655bdca8e8c2620adc06750959180a58eb71ef294f46f5d3b5ac866501
+        sha512: b536eefca143726198911f895c8055d6157d4d052e0aaa559b62a025bc11d060f1d1abf6f604218924e4ddbb2e167ee485218d6b4c4da4eee4d43ac7e9077407
         x-checker-data:
           type: json
           url: https://api.github.com/repos/kukaraf/ytmdesktop/releases/latest
