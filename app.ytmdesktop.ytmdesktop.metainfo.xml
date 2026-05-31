@@ -38,6 +38,9 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="v2.0.12" type="stable" date="2026-05-30">
+      <url>https://github.com/kukaraf/ytmdesktop/releases/tag/v2.0.12/</url>
+    </release>
     <release version="v2.0.11" type="stable" date="2026-02-12">
       <url>https://github.com/ytmdesktop/ytmdesktop/releases/tag/v2.0.11/</url>
     </release>
